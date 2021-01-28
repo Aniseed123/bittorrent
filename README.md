@@ -1,5 +1,5 @@
 # bittorrent
-A simulation of how Bit Torrent, the popular P2P supported file sharing algorithm, work. The simulation is executed in C++.
+A simulation of how Bit Torrent, the popular P2P supported file sharing algorithm, works. The simulation is executed in C++.
 
 Standard peer-to-peer file sharing networks consist of
 “seeds” and “peers”. The “seeds” are the users that possess the
